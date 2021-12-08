@@ -4,7 +4,7 @@
 
 🌱 Eu sou Desenvolvedora Front-End!
 
-🌱 Atualmente estou estudando JavaScript.
+🌿 Atualmente estou estudando JavaScript.
 
 
 ## Sobre Mim 😎
