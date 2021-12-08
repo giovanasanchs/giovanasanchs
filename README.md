@@ -9,7 +9,7 @@
 
 ## Sobre Mim 😎
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Gih2139Sanches">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gih2139Sanches&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
