@@ -12,7 +12,7 @@
 <div>
   <a href="https://github.com/Gih2139Sanches">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gih2139Sanches&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gih2139Sanches&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gih2139Sanches&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Gih-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
