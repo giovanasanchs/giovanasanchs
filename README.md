@@ -14,7 +14,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gih2139Sanches&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Gih2139Sanches">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gih2139Sanches&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gih2139Sanches&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </p>
 
