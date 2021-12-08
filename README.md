@@ -2,9 +2,9 @@
 
 ## Olá, eu sou a Giovana Sanches 
 
-:computer: Eu sou Desenvolvedora Front-End!
+🌱 Eu sou Desenvolvedora Front-End!
 
-:books: Atualmente estou estudando JavaScript.
+🌱 Atualmente estou estudando JavaScript.
 
 
 ## Sobre Mim 😎
