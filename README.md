@@ -17,11 +17,11 @@
  </a>
 </div>
 
-<p>
-  <a href="">
+<p align="center">
+  <a href="https://github.com/Gih2139Sanches">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gih2139Sanches&show_icons=true&theme=tokyonight">
   </a>
-  <a href="">
+  <a href="https://github.com/Gih2139Sanches">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gih2139Sanches&theme=tokyonight">
   </a>
 </p>
