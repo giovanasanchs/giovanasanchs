@@ -11,8 +11,12 @@
 </h2>
 
 <p>
+  <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gih2139Sanches&show_icons=true&theme=tokyonight">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gih2139Sanches&theme=tokyonight">
+  </a>
+  <a href="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gih2139Sanches&theme=tokyonight">
+  </a>
 </p>
 
 <p align = "center">
