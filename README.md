@@ -32,6 +32,11 @@
   <a href="https://www.instagram.com/giovana_sanch/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/giovana-sanches-clemente-86041b196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Gih2139Sanches/Gih2139Sanches/blob/output/github-contribution-grid-snake.svg)
- 
+ <h2 align="center">
+  Meu Quadro de Contribuições <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://github.com/Gih2139Sanches/Gih2139Sanches/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 </div>
