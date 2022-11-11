@@ -1,4 +1,4 @@
-### ☆ Olá, Bem-Vindo ao Meu Perfil! ☆
+### ☆ Bem-Vindo ao Meu Perfil! ☆
 
 ## Olá, eu sou a Giovana Sanches 
 
