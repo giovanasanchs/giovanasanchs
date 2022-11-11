@@ -1,4 +1,4 @@
-### ☆ Bem-Vindo ao Meu Perfil! ☆
+### ☆ Olá, Bem-Vindo ao Meu Perfil! ☆
 
 ## Olá, eu sou a Giovana Sanches 
 
@@ -17,10 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gih2139Sanches&theme=tokyonight">
 </p>
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Gih2139Sanches&theme=redical">
-</p> 
-
 <h2 align="center"> Minhas Skills <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
   <div align="center">
@@ -37,7 +33,6 @@
 <h2 align="center"> Me Siga nas Redes Socias <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
   <div align="center"> 
-  <a href="https://www.instagram.com/giovana_sanch/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/giovana-sanches-clemente-86041b196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
