@@ -25,12 +25,10 @@ My main skills include:
  
 # 🌐 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/giovana-sanches-clemente-%E2%9C%A8-86041b196/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)([https://linkedin.com/in/giovana-sanches-clemente-%E2%9C%A8-86041b196/])]
 
 🚀 Always open to new opportunities and collaborations! Feel free to reach out! 😊  
 
-# 🏆 My Contribution Board  
 <p align="center">
-  <img src="https://github.com/Gih2139Sanches/Gih2139Sanches/blob/output/github-contribution-grid-snake.svg" alt="snake">  
   <br>🔥 Keep coding and keep growing! 🚀
 </p>
